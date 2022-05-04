@@ -1,10 +1,7 @@
 # EstudyQA
 
 Bootcamp novos QAs
-
-
-
-Bootcamp - Pedro e Ana Catarina 
+ 
 
 Conceitos de computação
 Dica: udemy.com/course/algoritmos-logica-programacao/learn/lecture/9762578#overview
