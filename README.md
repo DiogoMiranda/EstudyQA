@@ -4,10 +4,10 @@ Bootcamp novos QAs
  
 
 Conceitos de computação
-Dica: udemy.com/course/algoritmos-logica-programacao/learn/lecture/9762578#overview
+Dica: https://udemy.com/course/algoritmos-logica-programacao/learn/lecture/9762578#overview
 
 Estudar e praticar alguma linguagem de programação (Ruby ou Java)
-Dica: codecademy.com/learn/learn-ruby
+Dica:  https://codecademy.com/learn/learn-ruby
 
 Estudar, praticar Git e criar uma conta no Github (Git)
 Dica: https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/
