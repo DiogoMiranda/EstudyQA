@@ -94,6 +94,9 @@ https://renatogroffe.medium.com/automatizando-testes-de-apis-rest-com-postman-ne
 
 https://medium.com/digitalproductsdev/wiremock-uma-solu%C3%A7%C3%A3o-para-simular-uma-api-da-qual-dependemos-que-n%C3%A3o-existe-ou-n%C3%A3o-est%C3%A1-completa-8ddaec8dba4b
 
+https://www.udemy.com/course/testando-api-rest-com-rest-assured/learn/lecture/14737898#content
+
+
 
 
 APIs para estudo 
