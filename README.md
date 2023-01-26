@@ -1,6 +1,6 @@
 # EstudyQA
 
-Guia Study QA
+Guia Estudo QA
  
 
 Conceitos de computação
