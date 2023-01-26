@@ -1,6 +1,6 @@
 # EstudyQA
 
-Bootcamp novos QAs
+Guia Study QA
  
 
 Conceitos de computação
