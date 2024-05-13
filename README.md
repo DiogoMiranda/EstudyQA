@@ -14,11 +14,10 @@ Dica: https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-g
 
 
 Estudar sobre Agilidade, Scrum, valores e manifesto ágil (talvez algum curso)
-Dica: https://ead.agileschool.com.br/aps-applying-professional-scrum 
+Dica: https://agileschool.com.br/ 
 
 Testes ágeis 
-Dica: https://www.youtube.com/c/JuliodeLimas/playlists
-Dica: https://agiletesters.com.br
+Dica: https://www.youtube.com/watch?v=P4M6mMnGjdk&list=PLf8x7B3nFTl35YeZN7kDWabmIMH17IyiE
 
 Teste unitários
 https://medium.com/assertqualityassurance/teste-unit%C3%A1rio-e-qualidade-de-software-acce7b9c537
