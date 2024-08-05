@@ -96,6 +96,10 @@ https://medium.com/digitalproductsdev/wiremock-uma-solu%C3%A7%C3%A3o-para-simula
 https://www.udemy.com/course/testando-api-rest-com-rest-assured/learn/lecture/14737898#content
 
 
+Testes de perfomance
+
+https://gatling-io.cdn.ampproject.org/c/s/gatling.io/blog/enhanced-no-code-testing?hs_amp=true
+
 
 
 APIs para estudo 
