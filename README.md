@@ -6,7 +6,7 @@
 - **Dica:** [Algoritmos e Lógica de Programação](https://udemy.com/course/algoritmos-logica-programacao/learn/lecture/9762578#overview)
 
 ### Linguagens de Programação
-- Estudar e praticar alguma linguagem de programação (Ruby ou Java)
+- Estudar e praticar alguma linguagem de programação (Ruby, Java, JS ou Python)
   - **Dica:** [Ruby na Codecademy](https://codecademy.com/learn/learn-ruby)
 
 ### Git e Github
@@ -29,6 +29,8 @@
 
 ### Teste de Performance
 - **Dica:** [Artigo sobre Artillery](https://medium.com/digitalproductsdev/https-medium-com-barbaromatrix-artilharia-pesada-na-sua-api-com-artillery-e480cb6220ca)
+- ### Testes de desempenho
+- **Dica:** [Enhanced No Code Testing com Gatling](https://gatling-io.cdn.ampproject.org/c/s/gatling.io/blog/enhanced-no-code-testing?hs_amp=true)
 
 ### Especificação por Exemplo
 - **Dica:** [Parte 01](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-01)
@@ -65,9 +67,6 @@
 - **Dica:** [Automatizando Testes de APIs REST](https://renatogroffe.medium.com/automatizando-testes-de-apis-rest-com-postman-newman-a90f0d90df09)
 - **Dica:** [Simulando APIs com Wiremock](https://medium.com/digitalproductsdev/wiremock-uma-solu%C3%A7%C3%A3o-para-simular-uma-api-da-qual-dependemos-que-n%C3%A3o-existe-ou-n%C3%A3o-est%C3%A1-completa-8ddaec8dba4b)
 - **Dica:** [Testando API REST com Rest Assured](https://www.udemy.com/course/testando-api-rest-com-rest-assured/learn/lecture/14737898#content)
-
-### Testes de Performance
-- **Dica:** [Enhanced No Code Testing com Gatling](https://gatling-io.cdn.ampproject.org/c/s/gatling.io/blog/enhanced-no-code-testing?hs_amp=true)
 
 ### APIs para Estudo
 - **Dica:** [Public APIs](https://github.com/public-apis/public-apis)
