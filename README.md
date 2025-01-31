@@ -37,6 +37,7 @@
 - **Dica:** [Parte 02](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-02)
 - **Dica:** [Parte 03](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-03)
 - **Dica:** [Gherkin](https://blog.onedaytesting.com.br/gherkin/)
+- **Dica:** [Como Escrever uma Boa História de Usuário](https://viniciuspessoni.com/2018/06/21/como-escrever-uma-boa-historia-de-usuario-user-story-para-automaizar-com-bdd/)
 
 ### Feature Express
 - **Dica:** [Artigo sobre Feature Express](https://medium.com/assertqualityassurance/feature-express-uma-forma-elegante-de-expor-as-features-criadas-para-os-stakeholders-4dc2e46934f7)
@@ -59,7 +60,7 @@
 
 ### Debug de Testes
 - **Dica:** [Debugando seus Testes usando gem pry](https://imasters.com.br/back-end/debugando-seus-testes-usando-gem-pry)
-- **Dica:** [Como Escrever uma Boa História de Usuário](https://viniciuspessoni.com/2018/06/21/como-escrever-uma-boa-historia-de-usuario-user-story-para-automaizar-com-bdd/)
+
 
 ### Testes API
 - **Dica:** [YouTube - Testes de API](https://www.youtube.com/watch?v=VqVQ7vHY32o&list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX&index=2)
